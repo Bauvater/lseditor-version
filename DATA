@@ -2,7 +2,18 @@
   "program": {
     "name": "LSEditor",
     "version": "1.0.0",
-    "description": "DATA PULL",
-    "repository": "https://github.com/leifson1337/lseditor"
+    "description": "LSEditor - The free alternative to AI Editors",
+    "maintainers": [
+      "Bauvater",
+      "Leifson1337"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/leifson1337/lseditor"
+    },
+    "license": {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/Leifson1337/lseditor/refs/heads/master/LICENSE"
+    }
   }
 }
